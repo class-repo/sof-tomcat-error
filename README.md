@@ -2,6 +2,10 @@
 
 This is a demo & reproduce the problem on this question: https://stackoverflow.com/questions/66198579/intellij-idea-2020-tomcat-10-servlet-http-status-404-not-found
 
+**UPDATE:**
+- This question already has answers here: https://stackoverflow.com/questions/66198579/intellij-idea-2020-tomcat-10-servlet-http-status-404-not-found
+- You need `jakarta.servlet.*` instead. - BalusC
+
 # Setup
 
 - IDE: IntelliJ IDEA 2020.3.2 Ultimate Edition
